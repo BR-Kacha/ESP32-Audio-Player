@@ -1,0 +1,19 @@
+* Features *
+	1. Bluetooth Connectivity: Stream audio wirelessly from your smartphone, tablet, or any Bluetooth-enabled device.
+	2. Simple Controls: Three buttons allow for easy control of playback - Pause/Play, Next, and Previous.
+	3. High-Quality Audio Output: The Max98357A stereo amplifier combined with the 3W 4 ohm speaker delivers clear and crisp sound.
+	4. Low-Cost and Easy to Build: Utilizing affordable and readily available components, this project is accessible for hobbyists and DIY enthusiasts of all levels.
+	5. Customizable: The project's open-source nature allows for customization and expansion according to your preferences and requirements.
+
+* Hardware Requirements *
+	1. ESP32 development board
+	2. Max98357A stereo amplifier
+	3. 3W 4 ohm speaker
+	4. Three push buttons (for Pause/Play, Next, and Previous functions)
+	5. Jumper wires
+	6. Breadboard (optional, for prototyping)
+
+* Software Requirements *
+	1. Arduino IDE
+	2. ESP32 board support package
+	3. A2DP Library for ESP32 : https://github.com/pschatzmann/ESP32-A2DP.git
